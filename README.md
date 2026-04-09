@@ -1,12 +1,12 @@
 # Hey, I'm Josh 👋
 
-**Full-stack engineer, creative technologist, and AI-native builder. I work across web, iOS, and AI tooling — and I think in products, not just code. Whether it's a security CTF for 150 CUNY students, an ed-tech platform for kids, or a housing navigation suite for New Yorkers experiencing homelessness — I build things that solve real problems with clean code, sharp UI, and a bias toward shipping. Based in New York City.**
+**Full-stack engineer, creative technologist, and AI-native builder. I work across web, iOS, and AI tooling. I think in products, not just code. Whether it's a security CTF for 150 CUNY students, an ed-tech platform for kids, or a housing navigation suite for New Yorkers experiencing homelessness, I build things that solve real problems with clean code, sharp UI, and a bias toward shipping. Based in New York City.**
 
 ---
 
 ## 🧠 What I Bring That Most Devs Don't
 
-Most engineers write code. I build products. With a background that spans iOS, full-stack web, and AI tooling — plus experience as an instructor and volunteer at Pursuit teaching Git workshops — I think about the whole picture: who's using this, why it matters, and how to make it click. I call my approach "vibe coding" — intentional, creative, and grounded in real outcomes.
+Most engineers write code. I build products. With a background that spans iOS, full-stack web, and AI tooling — plus experience as an instructor and volunteer at Pursuit teaching Git workshops — I think about the whole picture: who's using this, why it matters, and how to make it click. My approach is intentional, creative, and grounded in real outcomes.
 
 That lens shapes everything I build.
 
